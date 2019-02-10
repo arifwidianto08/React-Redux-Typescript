@@ -1,0 +1,7 @@
+.main {
+  height: -webkit-fill-available;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;
+  background-size: cover;
+}
